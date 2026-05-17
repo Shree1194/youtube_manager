@@ -42,3 +42,6 @@ python youtube_manager.py
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Author:** [Aadesh Kapadnis](https://linkedin.com/in/aadesh-kapadnis) | [GitHub](https://github.com/Shree1194)
+
+## 🌟 Project Status
+Active — contributions welcome!
